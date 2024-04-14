@@ -17,6 +17,8 @@ public class SecondPlusThird {
             numbers.add(number);
         }
 
-        System.out.println(luvut.get(0));
+        if (numbers.size() >= 3) {
+            System.out.println(numbers.get(1) + numbers.get(2));
+        }
     }
 }

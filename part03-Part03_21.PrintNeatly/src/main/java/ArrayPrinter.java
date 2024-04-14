@@ -9,5 +9,12 @@ public class ArrayPrinter {
 
     public static void printNeatly(int[] array) {
         // Write some code in here
+        for (int i = 0; i < array.length; i++) {
+            System.out.print(array[i]);
+            // Add a comma if it's not the last element
+            if (i != array.length - 1) {
+                System.out.print(", ");
+            }
+        }
     }
 }

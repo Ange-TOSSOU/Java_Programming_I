@@ -17,6 +17,8 @@ public class ThirdElement {
             list.add(input);
         }
 
-        System.out.println(lista.get(0));
+        if (list.size() >= 3) {
+            System.out.println(list.get(2));
+        }
     }
 }

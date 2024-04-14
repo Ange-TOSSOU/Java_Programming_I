@@ -17,5 +17,8 @@ public class RememberTheseNumbers {
             numbers.add(luku);
         }
 
+        for (int i = 0, len = numbers.size(); i < len; i++) {
+            System.out.println(numbers.get(i));
+        }
     }
 }
