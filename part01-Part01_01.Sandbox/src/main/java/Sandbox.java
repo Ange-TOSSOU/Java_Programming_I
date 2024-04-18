@@ -7,15 +7,17 @@ public class Sandbox {
         Scanner scanner = new Scanner(System.in);
         // Write your program here
         
-        while (true) {
-            System.out.println("Shall we carry on?");
-            String input = scanner.nextLine();
-            
-            if (input.equals("no")) {
-                break;
-            }
-        }
-        
-        System.out.println("LOL");
+        Person ada = new Person("Ada");
+        Person antti = new Person("Antti");
+
+        ada.printPerson();
+        antti.printPerson();
+        System.out.println("");
+
+        ada.growOlder();
+        ada.growOlder();
+
+        ada.printPerson();
+        antti.printPerson();
     }
 }
