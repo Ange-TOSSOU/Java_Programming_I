@@ -4,20 +4,18 @@ import java.util.Scanner;
 public class Sandbox {
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        // Write your program here
-        
-        Person ada = new Person("Ada");
-        Person antti = new Person("Antti");
+        Person matti = new Person("Matti");
+        Person juhana = new Person("Juhana");
 
-        ada.printPerson();
-        antti.printPerson();
-        System.out.println("");
+        matti.setHeight(180);
+        matti.setWeight(86);
 
-        ada.growOlder();
-        ada.growOlder();
+        juhana.setHeight(175);
+        juhana.setWeight(64);
 
-        ada.printPerson();
-        antti.printPerson();
+        String mattiBodyMassIndex = String.format("%.2f", matti.bodyMassIndex());
+        String juhanaBodyMassIndex = String.format("%.2f", juhana.bodyMassIndex());
+        System.out.println(matti.getName() + ", body mass index is " + mattiBodyMassIndex);
+        System.out.println(juhana.getName() + ", body mass index is " + juhanaBodyMassIndex);
     }
 }
