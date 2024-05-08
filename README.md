@@ -33,6 +33,9 @@ The course is split up into two individual courses: Java Programming I and Java 
 - [Files and Reading Data][ps_15]
 
 ### Part 5
+- [Learning Object Oriented Programming][ps_16]
+- [Removing Repetitive Code][ps_17](overloading methods and constructors)
+- [Objects and References][ps_18]
 
 ## Java Programming II
 
@@ -54,4 +57,7 @@ The course is split up into two individual courses: Java Programming I and Java 
 [ps_13]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_4/Introduction_to_Object_Oriented_Programming
 [ps_14]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_4/Objects_in_a_List
 [ps_15]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_4/Files_and_Reading_Data
+[ps_16]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_5/Learning_Object_Oriented_Programming
+[ps_17]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_5/Removing_Repetitive_Code
+[ps_18]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_5/Objects_and_References
 
