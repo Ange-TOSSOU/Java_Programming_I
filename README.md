@@ -17,10 +17,20 @@ The course is split up into two individual courses: Java Programming I and Java 
 - [Conditional statements and conditional operation][ps_5]
 
 ### Part 2
+- [Recurring Problems and Patterns to Solve them][ps_6]
+- [Repeating Functionality][ps_7]
+- [More Loops][ps_8]
+- [Methods and Dividing the Program into Smaller Parts][ps_9]
 
 ### Part 3
+- [Lists][ps_10]
+- [Arrays][ps_11]
+- [Using Strings][ps_12]
 
 ### Part 4
+- [Introduction to Object Oriented Programming][ps_13]
+- [Objects in a List][ps_14]
+- [Files and Reading Data][ps_15]
 
 ### Part 5
 
@@ -34,4 +44,14 @@ The course is split up into two individual courses: Java Programming I and Java 
 [ps_3]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_1/Variables
 [ps_4]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_1/Calculating_with_Numbers
 [ps_5]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_1/Conditional_Statements_and_Conditional_Operation
+[ps_6]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_2/Recurring_Problems_and_Patterns_to_Solve_them
+[ps_7]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_2/Repeating_Functionality
+[ps_8]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_2/More_Loops
+[ps_9]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_2/Methods_and_Dividing_the_Program_into_Smaller_Parts
+[ps_10]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_3/Lists
+[ps_11]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_3/Arrays
+[ps_12]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_3/Using_Strings
+[ps_13]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_4/Introduction_to_Object_Oriented_Programming
+[ps_14]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_4/Objects_in_a_List
+[ps_15]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_4/Files_and_Reading_Data
 
