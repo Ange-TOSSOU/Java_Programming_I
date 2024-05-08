@@ -34,7 +34,7 @@ The course is split up into two individual courses: Java Programming I and Java 
 
 ### Part 5
 - [Learning Object Oriented Programming][ps_16]
-- [Removing Repetitive Code][ps_17](overloading methods and constructors)
+- [Removing Repetitive Code][ps_17] (overloading methods and constructors)
 - [Objects and References][ps_18]
 
 ## Java Programming II
