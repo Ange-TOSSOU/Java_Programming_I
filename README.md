@@ -37,6 +37,9 @@ The course is split up into two individual courses: Java Programming I and Java 
 - [Removing Repetitive Code][ps_17] (overloading methods and constructors)
 - [Objects and References][ps_18]
 
+### Part 6
+- [Objects on a List and a List as Part of an Object][ps_19]
+
 ## Java Programming II
 
 
@@ -60,4 +63,5 @@ The course is split up into two individual courses: Java Programming I and Java 
 [ps_16]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_5/Learning_Object_Oriented_Programming
 [ps_17]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_5/Removing_Repetitive_Code
 [ps_18]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_5/Objects_and_References
+[ps_19]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_6/Objects_on_a_List_and_a_List_as_Part_of_an_Object
 
