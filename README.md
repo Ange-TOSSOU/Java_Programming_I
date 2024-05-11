@@ -39,6 +39,7 @@ The course is split up into two individual courses: Java Programming I and Java 
 
 ### Part 6
 - [Objects on a List and a List as Part of an Object][ps_19]
+- [Separating the User Interface from Program Logic][ps_20]
 
 ## Java Programming II
 
@@ -64,4 +65,5 @@ The course is split up into two individual courses: Java Programming I and Java 
 [ps_17]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_5/Removing_Repetitive_Code
 [ps_18]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_5/Objects_and_References
 [ps_19]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_6/Objects_on_a_List_and_a_List_as_Part_of_an_Object
+[ps_20]: https://github.com/Ange-TOSSOU/Java_Programming_University_of_Helsinki/tree/main/Part_6/Separating_the_User_Interface_from_Program_Logic
 
